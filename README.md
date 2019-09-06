@@ -28,6 +28,6 @@
    (conda install -c conda-forge tensorflow)
    
 2. Install python packages: 
-   numpy, scipy, PIL, pdb
+   numpy, scipy, PIL, pdb, sewar
    
 
