@@ -47,6 +47,6 @@ https://drive.google.com/file/d/1cMXWICiblTsRl1zjN8FizF5hXOpVOJz4/view?usp=shari
 
 ## Acknowledgments
 
-Great thanks to[He Zhang](https://sites.google.com/site/hezhangsprinter/) for dataset.
+Great thanks to [He Zhang](https://sites.google.com/site/hezhangsprinter/) for dataset.
 Codes heavily borrowed from [DDN](http://smartdsp.xmu.edu.cn/cvpr2017.html)
 
