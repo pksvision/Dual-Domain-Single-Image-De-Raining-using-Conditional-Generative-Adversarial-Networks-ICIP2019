@@ -20,23 +20,19 @@ images dataset reveal an improvement over the existing stateof-the-art methods [
 Similarity Index [6] and ∼ 7.39%, 9.95% in Peak signal-tonoise ratio respectively
 	
   
- @INPROCEEDINGS{8803353, 
-author={P. K. {Sharma} and P. {Jain} and A. {Sur}}, 
-booktitle={2019 IEEE International Conference on Image Processing (ICIP)}, 
-title={Dual-Domain Single Image De-Raining Using Conditional Generative Adversarial Network}, 
-year={2019}, 
-volume={}, 
-number={}, 
-pages={2796-2800}, 
-keywords={Image De-raining;Conditional Generative Adversarial Network (cGAN);Haar Wavelets;Perceptual Loss;Deep Learning}, 
-doi={10.1109/ICIP.2019.8803353}, 
-ISSN={2381-8549}, 
-month={Sep.},}
-
-
-
-
-
+ 	@inproceedings{8803353,
+	  author={P. K. {Sharma} and P. {Jain} and A. {Sur}}, 
+          booktitle={2019 IEEE International Conference on Image Processing (ICIP)}, 
+          title={Dual-Domain Single Image De-Raining Using Conditional Generative Adversarial Network}, 
+	   year={2019}, 
+	   volume={}, 
+	   number={}, 
+	   pages={2796-2800}, 
+	   keywords={Image De-raining;Conditional Generative Adversarial Network (cGAN);Haar Wavelets;Perceptual Loss;Deep Learning}, 
+	   doi={10.1109/ICIP.2019.8803353}, 
+	   ISSN={2381-8549}, 
+	   month={Sep.},}
+	  
 
 ## Prerequisites:
 1. Linux
