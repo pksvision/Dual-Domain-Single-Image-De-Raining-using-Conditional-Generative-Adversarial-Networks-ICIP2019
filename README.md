@@ -30,4 +30,8 @@
 2. Install python packages: 
    numpy, scipy, PIL, pdb, sewar
    
+## Demo using pre-trained model
+   python3 testing.py
+Pre-trained model can be downloaded at (put it in the folder 'models'): https://drive.google.com/drive/folders/13WJn0gjpanrhd07Rv3oO3sHb0i3KaTtv?usp=sharing
+   
 
