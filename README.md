@@ -36,9 +36,11 @@
 ## Demo using pre-trained model
    python3 testing.py
    
-Pre-trained model can be downloaded at (put it in the folder 'models'): https://drive.google.com/drive/folders/13WJn0gjpanrhd07Rv3oO3sHb0i3KaTtv?usp=sharing
+   Pre-trained model can be downloaded at (put it in the folder 'models'):         	https://drive.google.com/drive/folders/13WJn0gjpanrhd07Rv3oO3sHb0i3KaTtv?usp=sharing
 
-Pre-trained models related to wavelets can be downloaded at (put it in the folder 'sub-bands-npzs'): 
+   Pre-trained models related to wavelets can be downloaded at (put it in the folder 'sub-bands-npzs'): 
 https://drive.google.com/drive/folders/1LwqnsJqvCKA-BP44otLJuA1X1Udg2WGj?usp=sharing
    
-
+## Dataset
+	Training (heavy, medium, light) and testing (TestA and Test B) data can be downloaded at the following link:
+	https://drive.google.com/file/d/1cMXWICiblTsRl1zjN8FizF5hXOpVOJz4/view?usp=sharing
