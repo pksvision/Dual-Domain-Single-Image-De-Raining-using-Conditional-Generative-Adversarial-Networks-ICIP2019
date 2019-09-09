@@ -6,7 +6,7 @@ import tensorflow as tf
 import cv2
 from tensorflow.python.training import moving_averages
 from tensorflow.python.ops import control_flow_ops
-from vgg16 import *
+#from vgg16 import *
 import subprocess
 import platform
 import pywt 
